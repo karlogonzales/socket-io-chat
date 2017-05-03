@@ -1,0 +1,23 @@
+{
+  "name": "socket-io-chat",
+  "version": "1.0.0",
+  "description": "Real time chat using socket io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlogonzales/socket-io-chat.git"
+  },
+  "author": "Karlo Gonzales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlogonzales/socket-io-chat/issues"
+  },
+  "homepage": "https://github.com/karlogonzales/socket-io-chat#readme",
+  "dependencies": {
+    "socket.io":"*",
+    "express":"*"
+  }
+}
